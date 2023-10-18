@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lentele_02 Uzduotis", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadratas_3_uzduotis", "kvadratas_3_uzduotis\kvadratas_3_uzduotis.csproj", "{7ADABB92-1AEE-4B06-BE89-C4080B71346A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_kintamuju_Isvedimas_04_Uzduotis", "_kintamuju_Isvedimas_04_Uzduotis\_kintamuju_Isvedimas_04_Uzduotis.csproj", "{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{7ADABB92-1AEE-4B06-BE89-C4080B71346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADABB92-1AEE-4B06-BE89-C4080B71346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADABB92-1AEE-4B06-BE89-C4080B71346A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{5A2BC08D-11A8-4FED-9354-C16279106B6D} = {5BC0C55C-DEA7-41FF-809D-23A1848723D1}
 		{A4543221-F643-4B77-A8C6-B845EF07083E} = {5BC0C55C-DEA7-41FF-809D-23A1848723D1}
 		{7ADABB92-1AEE-4B06-BE89-C4080B71346A} = {5BC0C55C-DEA7-41FF-809D-23A1848723D1}
+		{B514FBDB-C03A-4CFD-81A6-4801A13CE9B4} = {5BC0C55C-DEA7-41FF-809D-23A1848723D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {391A1717-FE62-4C79-BB95-AC150C48E0F4}
